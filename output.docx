@@ -19,28 +19,28 @@ Experiment-2:
 hyperparameter:
 optimizer : sgd
 output:
-accuracy : 0.1019
-loss : 2.3026
+accuracy : 0.1023
+loss : 2.3044
 
 Experiment-3:
 hyperparameter:
 one more layer with 256 neurons is added
 optimizer : sgd
 output:
-accuracy : 0.1001
-loss : 2.3115
+accuracy : 0.1021
+loss : 2.3144
 
 Experiment-4:
 hyperparameter:
 optimizer : sgd changed to adam
 output:
-accuracy : 0.3663
-loss : 1.7615
+accuracy : 0.4322
+loss : 1.7621
 
 Experiment-5:
 hyperparameter:
 epochs increased from 10 to 30
 optimizer :  adam
 output:
-accuracy : 0.3663
-loss : 1.7615
+accuracy : 0.3642
+loss : 1.7677
